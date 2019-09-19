@@ -1,0 +1,19 @@
+{
+  "name": "g-hub",
+  "version": "1.0.0",
+  "description": "1st project on GitHub",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Roksn0v/g-hub.git"
+  },
+  "author": "Max",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/Roksn0v/g-hub/issues"
+  },
+  "homepage": "https://github.com/Roksn0v/g-hub#readme"
+}
